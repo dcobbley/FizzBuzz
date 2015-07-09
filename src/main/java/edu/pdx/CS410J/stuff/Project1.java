@@ -3,7 +3,9 @@ package edu.pdx.CS410J.stuff;
 import edu.pdx.cs410J.AbstractPhoneBill;
 
 /**
- * The main class for the CS410J Phone Bill Project
+ * The main class for our FizzBuzz in class programming
+ * We pair programmed this in a group of Three.
+ * Author's : Jonathan Shepardson, Dustin Reynolds and David Cobbley.
  */
 public class Project1 {
 
